@@ -1,6 +1,6 @@
 # Temporal-Analysis
 Repository to host all temporal analysis data visualization projects
----
+
 ## Iphone Sales Dataset
 Goal: Analyze the sales pattern of iPhone over time.
 Excel file iPhoneSales.xlsx contains iPhone unit sales by quarter from Q3 2007 to Q4 2018 (Data Source: Statista).
