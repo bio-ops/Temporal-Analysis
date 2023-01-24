@@ -30,13 +30,21 @@ In online auctions with fixed ending times, auction sniping refers to the behavi
 
 **Data Fields:** 
 auctionid: unique identifier of an auction
+
 bid: the proxy bid placed by a bidder
+
 bidtime: the time in days that the bid was placed, from the start of the auction
+
 bidder: eBay username of the bidder
+
 bidderrate: eBay feedback rating of the bidder
+
 openbid: the opening bid set by the seller
+
 price: the closing price that the item sold for (equivalent to the second highest bid + an increment)
+
 item: auction item (Cartier wristwatch, Xbox game console)
+
 auction_type: 3 day auction, 5 day auction, 7 day auction
 
 
